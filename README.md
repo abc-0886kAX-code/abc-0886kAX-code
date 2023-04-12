@@ -4,9 +4,10 @@
 </div>
 
 
-<center>
-<img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc-0886kAX-code&layout=compact"/><img width="200" src="https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical"/>
-</center>
+<p display="flex" justify-content="space-evenly">
+ <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc-0886kAX-code&layout=compact"/>
+ <img width="400" src="https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical"/>
+<p/>
 
 
 <!--
