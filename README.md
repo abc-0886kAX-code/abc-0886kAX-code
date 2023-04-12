@@ -1,4 +1,4 @@
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc-0886kAX-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc-0886kAX-code&layout=compact)](https://github.com/abc-0886kAX-code/github-readme-stats)
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical)
 
 <!--
