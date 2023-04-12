@@ -5,7 +5,9 @@
 
 <p float="left">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc-0886kAX-code&layout=compact">
-  <img float="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical">
+</p>
+<p float="right">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical">
 </p>
 
 
