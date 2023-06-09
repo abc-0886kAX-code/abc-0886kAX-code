@@ -5,8 +5,8 @@
 <br>
 <br>
 <div align="center">
+  https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical
 <!--   <img width="400" src="https://github-readme-stats.vercel.app/api?username=abc-0886kAX-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 <br>
 <br>
